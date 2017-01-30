@@ -1,0 +1,14 @@
+series: Welcome to Atlas
+title: Dummy Text Node
+author:
+    name: Jamie Fox-Canning
+    email: jgf8395@g.rit.edu
+    github: https://github.com/VNilla
+description: A placeholder text node.
+language:
+tags:
+  - Core
+extra_resources:
+connections:
+  - series: Welcome to Atlas
+    title: Getting Started
