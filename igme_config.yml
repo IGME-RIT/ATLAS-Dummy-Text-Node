@@ -5,6 +5,7 @@ author:
     email: jgf8395@g.rit.edu
     github: https://github.com/VNilla
 description: A placeholder text node.
+type: text
 language:
 tags:
   - Core
